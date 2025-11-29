@@ -151,5 +151,3 @@ if st.button("🧠 Predict UPDRS Severity", use_container_width=True):
 
 st.markdown("</div>", unsafe_allow_html=True)
 
-st.markdown("<div class='footer'>Built with ❤️ for Parkinson's Awareness</div>", unsafe_allow_html=True)
-
